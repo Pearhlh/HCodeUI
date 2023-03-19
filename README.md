@@ -17,7 +17,7 @@
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 ### :fire: My Stats
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pearhlh&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pearhlh&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pearhlh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
