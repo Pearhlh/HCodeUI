@@ -36,7 +36,7 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Pearhlh&show_icons=true&locale=en&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Pearhlh&show_icons=true&layout=compact&locale=en&theme=radical&line_height=0" />
 </p> 
  
 
