@@ -1,5 +1,4 @@
 # Pearhlh
-My personal repository
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pearhlh">
