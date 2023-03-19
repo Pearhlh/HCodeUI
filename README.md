@@ -36,12 +36,9 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Pearhlh&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Pearhlh&show_icons=true&locale=en&theme=radical&line_height=0" />
 </p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
-</p> 
+ 
 
 
 
