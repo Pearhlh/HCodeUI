@@ -22,6 +22,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pearhlh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### Spotify Playing 🎧
+
+[<img src="https://<YOUR VERCEL SERVER URL>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
+
 ### 🌐️ Contact me
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pearhlh)
