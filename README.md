@@ -54,9 +54,6 @@ Le Gia Huy. I'm from Viet Nam. I'm a newbie to the programming world & working a
     <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pearhlh&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
-## 📊 Contribution Graph
- 
-  [![Pearhlh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pearhlh&theme=redical&custom_title=Shining%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🌎 Connect with me:
 <p align="left">
 
