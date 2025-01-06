@@ -26,6 +26,7 @@ Le Gia Huy. I'm from Viet Nam. I'm a newbie to the programming world & working a
 <p align="left">
     <b>Note:</b> Languages and tools which are included below,are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level.</br>
     <a href="https://devdocs.io/cpp/" name="c++" ><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" name="c++" ><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
     <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" name="SQL-Server" ><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     <a href="https://docs.oracle.com/en/java/" name="java" ><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
     <a href="https://www.w3schools.com/html/html_intro.asp" name="html"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -33,18 +34,9 @@ Le Gia Huy. I'm from Viet Nam. I'm a newbie to the programming world & working a
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" name="javascript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://code.visualstudio.com/" name="visual-studio-code"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" name="nodejs"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://expressjs.com" name="express"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" name="mongodb"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>   
-    <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/NoSQL" name="noSQL"><img src="https://img.icons8.com/fluent/50/000000/server.png"/></a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://github.com/" name="github"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-    <a href="https://docs.microsoft.com/en-us/powershell/" name="windows-powershell"><img src="https://img.icons8.com/color/48/000000/powershell.png"/></a>
-    
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
 </p>
-
-## 🏃‍♂️ Github Streak
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pearhlh&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ## 🌟 Github Stats
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
